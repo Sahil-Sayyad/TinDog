@@ -10,6 +10,8 @@ Deployed Website URL:
 
 
  https://sahil-sayyad.github.io/TinDog/
+![Settings Window](https://raw.github.com/Sahil-Sayyad/TinDog/main/images/Capture.jpeg)
+
 
 
 
